@@ -102,7 +102,7 @@ export const SkillBars = [
     },
     {
       Stack: 'Programming',
-      progressPercentage: '60',
+      progressPercentage: '80',
     },
   ]
 
@@ -112,28 +112,19 @@ export const educationInfo = [
       subHeader: 'Master of Technology in Computer Science',
       duration: 'Jun 2019 - Jun 2021',
       desc: 'Participated in the research of Job Allocation inside Cloud Architecture and published 1 paper.',
-      descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-      ],
+      
     },
     {
       schoolName: 'I.G.N.O.U',
       subHeader: 'Master of Computer Applications',
       duration: 'January 2014 - Jun 2017',
       desc: 'Developed Library Management System and Visitor Management System',
-      descBullets: [
-        'Lorem ipsum dolor sit amet, consectetfgur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-      ],
     },
     {
       schoolName: 'Guru Nanak Dev University',
       subHeader: 'Bachelor of Computer Application',
       duration: 'Jun 2009 - April 2012',
-      desc:
-        'Took courses about Software Engineering, Operating Systems, ...',
-      descBullets: ['Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit'],
+      desc:'Took courses about Software Engineering, Operating Systems, ...',
     },
 ]
 
